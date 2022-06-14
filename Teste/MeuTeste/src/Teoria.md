@@ -4,6 +4,7 @@ Regra geral para `printf`:
 
 `"TEXTO1 %f TEXTO2 %f TEXTO3", variavel1, variavel2;`
 | tipo | descrição
+| ---- | ---------
 |  %f  | ponto flutuante
 |  %d  | inteiro
 |  %s  | texto
